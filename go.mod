@@ -1,4 +1,4 @@
-module github.com/ingka-group/nutanix-exporter
+module github.com/kiranpimpalkar/vault
 
 go 1.24.3
 
